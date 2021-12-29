@@ -1,0 +1,10 @@
+.services{
+    flex-wrap:wrap-reverse;
+
+    /* width: 100vh; */
+} 
+.box{
+/* width: 250px; */
+/* margin: 2px; */
+/* flex-wrap: wrap; */
+}

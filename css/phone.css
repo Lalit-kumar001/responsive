@@ -1,0 +1,49 @@
+#navbar{
+    height: auto;
+    width: 103vh;
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+    align-items: center;
+    justify-content: center;
+    padding: 15px 20px;
+}
+/* #navbar::before{ */
+    /* width: 100vh; */
+/* } */
+#navbar ul li a{
+    /* display: flex; */
+    /* flex-direction: column; */
+    padding: 5px 5px;
+    margin: 6px;
+}
+/* home setting  */
+#home{
+    height: auto;
+    width: 100vh;
+}
+/* services setting  */
+.services{
+    flex-wrap: wrap;
+    width: 100vh;
+}
+/* client setting  */
+
+/* .order setting  */
+.order{
+    width: 100vh;
+    height: auto;
+}
+#name{
+    width: 100px;
+
+}
+#message{
+    width: 100px;
+}
+#Address{
+    width: 100px;
+}
+#number{
+    width: 100px;
+}
